@@ -718,7 +718,7 @@ background-image: url(london-slider-img.jpeg);
 
 .form3{
     background-color: white;
-    width: 68.9%;
+    width: 68.8%;
     position: relative;
     bottom: 250px;
     margin-left: 200px;
@@ -726,7 +726,7 @@ background-image: url(london-slider-img.jpeg);
     font-family: "Titillium Web", serif ;
     display: flex;
     gap: 20px;
-    padding-left: 28px;
+    padding-left: 28.3px;
 }
 
 .form3 input{
@@ -757,13 +757,15 @@ background-image: url(london-slider-img.jpeg);
 
 .p1{
     position: relative;
+    width: 68.8%;
     bottom: 260px;
     font-size: small;
     left: 200px;
     font-family:  "Titillium Web", serif ;
     color: gray;
-    padding: 20px;
+    padding: 19px;
     background-color: white;
+
 }
 
 .padd{
@@ -787,7 +789,7 @@ background-image: url(london-slider-img.jpeg);
 
 .firstt .dest{
     width: 20%;
-    height: 420px;
+    height: 430px;
     border: 1px solid rgb(240, 237, 237);
 }
 
@@ -802,11 +804,21 @@ background-image: url(london-slider-img.jpeg);
     object-fit: cover;
 }
 
-.dest h2 , .dest p{
+.dest h1 {
     font-family: "Titillium Web", serif;
-    font-size: 20px;
+    font-size: 18px;
     padding: 3px;
+    color: red;
 }
+
+ .dest p{
+  
+    font-family: "Titillium Web", serif;
+    font-size: 16px;
+    padding: 3px;
+
+ }
+
 .b3{
     padding-left: 25px;
     padding-top: 10px;
@@ -822,4 +834,200 @@ background-image: url(london-slider-img.jpeg);
     padding-left: 80px;
     padding-right: 80px;
 
+}
+
+.newww p{
+    font-size: 13px;
+    padding-left: 140px;
+    font-family: "Titillium Web", serif ;
+    color: gray;
+}
+
+.newww h1{
+    color: red;
+    font-size: 22px;
+    padding-left: 160px;
+    font-family: "Titillium Web", serif ;
+
+}
+
+.pneww{
+    margin-left: 70px;
+    color:#1e1c1c;
+}
+
+.unknown{
+    padding-top: 50px;
+    padding-left: 150px;
+    font-family: "Titillium Web", serif ;
+    color: gray;
+    font-size: 14px;
+    padding-bottom: 30px;
+}
+
+.view{
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+}
+
+.view button{
+    background-color: transparent;
+    font-family: "Titillium Web", serif ;
+    font-size: 17px;
+    border: 1px solid red;
+    color: red;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    padding-left: 35px;
+    padding-right: 35px;
+
+}
+
+.caard1{
+    width: 100%;
+    padding-top: 300px;
+    height: 100px;
+    background-image: url(DWC-Dubai.jpg);
+    background-size: cover;
+}
+
+.firstt .desttt{
+    padding-top: 20px;
+    width: 20%;
+    height: 230px;
+    border: 1px solid rgb(240, 237, 237);
+    padding-left:20px ;
+}
+
+/* Fourth page css */
+
+.pict{
+  padding-top: 40px;
+  padding-left: 150px;
+}
+
+.det{
+    display: flex;
+    justify-content: space-around;
+    font-family: "Titillium Web", serif ;
+    font-size: 12px;
+    padding-top: 40px;
+    color:#ad1f3d;
+}
+
+hr{
+    border: 1px solid red;
+    width: 85%;
+    margin-left: 140px;
+}
+
+.sec{
+    display: flex;
+    padding-left: 150px;
+    padding-top: 30px;
+    font-family: "Titillium Web", serif ;
+    
+}
+
+.sec1{
+    display: flex;
+    gap: 40px;
+    
+}
+
+.booking{
+    background-color: white;
+    margin-left: 800px;
+    border-color: red;
+    color: red;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: "Titillium Web", serif ;
+}
+
+.fontt{
+    color:#ad1f3d;
+    font-size: 13px;
+}
+
+.line{
+    margin-top: 20px;
+    border: 1px solid gray;
+}
+
+.datte{
+  display: flex;
+  padding-left: 150px;
+ 
+
+
+}
+
+.datte1{
+    width: 150px;
+    height: 60px;
+    font-family: "Titillium Web", serif ;
+    padding-left: 10px;
+    font-size: 14px;
+    padding-top: 10px;
+
+}
+
+.dattee{
+    color: gray;
+    padding-left: 20px;
+}
+
+.datte2{
+    width: 135px;
+    height: 60px;
+    font-family: "Titillium Web", serif ;
+    padding-left: 25px;
+    font-size: 14px;
+    background-color: #ad1f3d;
+    color: white;
+    padding-top: 10px;
+
+}
+
+.dattee3{
+     padding-left: 20px;
+}
+
+
+.aero{
+    background-color: #f7f9f8;    ;
+    width: 100%;
+}
+.aero h1{
+    color: #ad1f3d;
+    padding: 40px;
+    padding-left: 140px;
+    font-family: "Titillium Web", serif  ;
+    font-size: 28px;
+}
+
+.cont{
+    width: 85%;
+    background-color: white;
+    border: 1px solid rgb(235, 230, 230);
+    margin-left: 150px;
+}
+
+.cont p{
+    position: relative;
+    top: 30px;
+    left: 30px;
+    font-size: 20px;
+}
+
+.cont h1{
+    color: #74c0fc;
+    position: relative;
+    bottom: 45px;
+    right: 80px;
+    
 }
