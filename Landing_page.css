@@ -671,3 +671,155 @@ background-image: url(london-slider-img.jpeg);
     left: 1400px;
     position: fixed;
 }
+
+.caard{
+    width: 100%;
+    padding-top: 300px;
+    height: 100px;
+    background-image: url(Home-Image.jpg);
+    background-size: cover;
+}
+
+.flight{
+    width: 70%;
+    margin-left: 200px;
+    padding: 10px;
+    position: relative;
+    bottom: 250px;
+    background-color: rgba(255, 255, 255, 0.5);
+   
+}
+
+.flight h1{
+    color: red;
+    font-size: 52px;
+    font-family: "Titillium Web", serif;
+    padding-left: 70px;
+}
+
+.form2 form{
+    background-color: white;
+    display: flex;
+    position: relative;
+    bottom: 250px;
+    width: 70%;
+    margin-left: 200px;
+    padding: 10px;
+    padding-top: 30px;
+}
+
+.formi{
+    border-color: red;
+    font-family: "Titillium Web", serif ;
+    font-size: 17px;
+    color: red;
+    margin-left: 20px;
+}
+
+.form3{
+    background-color: white;
+    width: 68.9%;
+    position: relative;
+    bottom: 250px;
+    margin-left: 200px;
+    padding: 10px;
+    font-family: "Titillium Web", serif ;
+    display: flex;
+    gap: 20px;
+    padding-left: 28px;
+}
+
+.form3 input{
+    border: none;
+    padding-left: 9px;
+    outline: none;
+    color: gray;
+    
+}
+
+.b1{
+    border: 1px solid;
+    border-color: rgb(236, 229, 229);
+    
+}
+
+.butto button{
+    padding: 15px;
+    padding-left: 40px;
+    padding-right: 40px;
+    color: white;
+    background-color: red;
+    font-family: "Titillium Web", serif ;
+    font-size: 16px;
+    border: none;
+   
+}
+
+.p1{
+    position: relative;
+    bottom: 260px;
+    font-size: small;
+    left: 200px;
+    font-family:  "Titillium Web", serif ;
+    color: gray;
+    padding: 20px;
+    background-color: white;
+}
+
+.padd{
+    font-family:  "Titillium Web", serif ;
+    padding-left: 200px;
+    padding-top: 30px;
+}
+
+.blah{
+    font-family:  "Titillium Web", serif ;
+    padding-top: 80px;
+    padding-left: 200px;
+}
+
+.firstt{
+    display: flex;
+    gap: 30px;
+    margin-left: 150PX;
+    padding-top: 40px;
+}
+
+.firstt .dest{
+    width: 20%;
+    height: 420px;
+    border: 1px solid rgb(240, 237, 237);
+}
+
+.dest1{
+    width: 274px;
+    height: 180px;
+}
+
+.i1{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.dest h2 , .dest p{
+    font-family: "Titillium Web", serif;
+    font-size: 20px;
+    padding: 3px;
+}
+.b3{
+    padding-left: 25px;
+    padding-top: 10px;
+}
+
+.b3 button{ 
+    background-color: red;
+    font-family: "Titillium Web", serif ;
+    color:white;
+    border: none;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 80px;
+    padding-right: 80px;
+
+}
