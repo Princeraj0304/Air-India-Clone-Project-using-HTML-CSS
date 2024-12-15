@@ -494,14 +494,14 @@ background-image: url(london-slider-img.jpeg);
     margin-top: 15px;
     width: 100%;
     height: 80vh;
-    background-image: url(slider1.jpeg);
-    animation: slider 10s infinite ;
+    background-image: url();
+    animation: slider 10s infinite alternate ;
     background-size: cover;
    
 }
 
 @keyframes slider {
-    0%{background-image: url(slider1.jpeg);
+    0%{background-image: url(web-early-bird-sale-hp_Large1x.webp);
        
     }
     20%{
@@ -517,7 +517,7 @@ background-image: url(london-slider-img.jpeg);
     }
 
     100%{
-        background-image: url(slider1.jpeg);
+        background-image: url(web-early-bird-sale-hp_Large1x.webp);
     }
 
    
@@ -932,7 +932,7 @@ background-image: url(london-slider-img.jpeg);
     justify-content: space-around;
     font-family: "Titillium Web", serif ;
     font-size: 12px;
-    padding-top: 40px;
+    padding-top: 10px;
     color:#ad1f3d;
 }
 
@@ -945,7 +945,7 @@ hr{
 .sec{
     display: flex;
     padding-left: 150px;
-    padding-top: 30px;
+    padding-top: 20px;
     font-family: "Titillium Web", serif ;
     
 }
@@ -974,7 +974,7 @@ hr{
 }
 
 .line{
-    margin-top: 20px;
+    margin-top: 15px;
     border: 1px solid gray;
 }
 
@@ -1038,16 +1038,38 @@ hr{
 }
 
 .cont p{
-    position: relative;
-    top: 30px;
-    left: 30px;
-    font-size: 20px;
+    padding: 30px;
+    font-family: "Titillium Web", serif  ;
+    font-size: 17px;
+    color: #3f4045;
 }
 
-.cont h1{
-    color: #74c0fc;
-    position: relative;
-    bottom: 45px;
-    right: 80px;
-    
+.ticket{
+    display: flex;
+    width: 85.2%;
+    height: 200px;
+    margin-top: 30px;
+    margin-left: 150px;
+    border: 1px solid rgba(212, 208, 208, 0.268)
 }
+.tick1{
+    width: 40%;
+
+
+}
+.tick2{
+    width: 20%;
+
+   
+}
+.tick3{
+    width: 20%;
+
+
+}
+.tick4{
+    width: 20%;
+ 
+
+}
+
