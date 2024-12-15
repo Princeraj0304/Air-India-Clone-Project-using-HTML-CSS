@@ -17,6 +17,7 @@ body{
     font-family: "Titillium Web", serif;
     font-size: 14px;
     background-color:#f9f6ed;
+    flex-wrap: wrap;
     
 }
 
@@ -29,12 +30,14 @@ body{
     font-family: "Titillium Web", serif;
     font-size: 13px;
     background-color:#f9f6ed;
+    flex-wrap: wrap;
 }
 
 .header2 ul{
     list-style: none;
     display: flex;
     gap: 30px;
+    flex-wrap: wrap;
 }
 
 .header .header3 ul{
@@ -42,6 +45,7 @@ body{
     gap: 40px;
     list-style: none;
     padding-top: 10px;
+    flex-wrap: wrap;
     
 }
 
@@ -62,6 +66,7 @@ body{
     gap: 20px;
     font-family: "Titillium Web", serif;
     font-size: 14px;
+    flex-wrap: wrap;
    
     
 }
@@ -77,6 +82,7 @@ body{
     padding-top: 15px;
     gap: 8px;
     color: #3f4045;
+    flex-wrap: wrap;
 }
 
 
@@ -104,6 +110,7 @@ select{
 }
 .formmm{
     display: flex;
+    flex-wrap: wrap;
     }
 
 .from input , .to input{
@@ -144,6 +151,7 @@ select{
 }
 .details{
     display: flex;
+    flex-wrap: wrap;
 }
 
 .details .depart{
@@ -221,6 +229,7 @@ select{
     padding-right: 30px;
     padding-bottom: 2px;
     border: none;
+
 }
 
 .button:hover{
@@ -240,7 +249,7 @@ select{
     display: flex;
     justify-content: space-between;
     background-color: #edeef2;
-  
+    flex-wrap: wrap;
     
 }
 
@@ -265,6 +274,7 @@ select{
     gap: 20px;
     padding-left: 160px;
     padding-top: 50px;
+    flex-wrap: wrap;
     
 }
 
@@ -279,6 +289,7 @@ select{
    background-color: #edeef2;
    padding-top: 50px;
    padding-bottom: 80px;
+   flex-wrap: wrap;
    
 }
 
@@ -298,6 +309,7 @@ select{
     display: flex; 
     gap: 10px; 
     padding: 8px;
+    flex-wrap: wrap;
 }
 
 .post1 img,.post2 img,.post3 img{
@@ -328,6 +340,7 @@ select{
     padding-top: 200px;
     background-color:#edeef2;
     padding-bottom: 230px;
+    flex-wrap: wrap;
 }
 
 .prep h1{
@@ -351,6 +364,7 @@ select{
 .photos{
     display: flex;
     gap: 30px;
+    flex-wrap: wrap;
 }
 
 
@@ -383,6 +397,7 @@ select{
 
 .routes{
     display: flex;
+    flex-wrap: wrap;
 }
 
 
@@ -479,8 +494,8 @@ background-image: url(london-slider-img.jpeg);
     margin-top: 15px;
     width: 100%;
     height: 80vh;
-    background-image: url();
-    animation: slider 15s infinite ;
+    background-image: url(slider1.jpeg);
+    animation: slider 10s infinite ;
     background-size: cover;
    
 }
@@ -540,6 +555,7 @@ background-image: url(london-slider-img.jpeg);
     width: 100%;
     height: 450px;
     display: flex;
+  
   }
 
   
@@ -595,6 +611,7 @@ background-image: url(london-slider-img.jpeg);
     gap: 200px;
     font-family: "Titillium Web", serif;
     color: #3f4045;
+   
 }
 
 .foot1 ul ,.foot2 ul,.foot3 ul{
@@ -628,12 +645,14 @@ background-image: url(london-slider-img.jpeg);
 .immm{
     display: flex;
     gap: 30px;
+    
 }
 
 .tata{
     padding-top: 30px;
     display: flex;
     justify-content: space-between;
+    
 }
 
 .star{
@@ -641,12 +660,13 @@ background-image: url(london-slider-img.jpeg);
     gap: 20px;
     position: relative;
     right: 120px;
+   
 }
 
 .copyright p{
     display: flex;
     justify-content: center;
-
+   
 }
 
 .copy1{
