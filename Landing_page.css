@@ -959,7 +959,7 @@ hr{
 .booking{
     background-color: white;
     margin-left: 800px;
-    border-color: red;
+    border-color: #efa1b2;
     color: red;
     padding-left: 30px;
     padding-right: 30px;
@@ -1133,4 +1133,13 @@ hr{
     width: 100%;
     padding: 20px;
     background-color: #f7f9f8;
+}
+
+.periperi{
+    background-color: #ffbd6e;
+    font-family: "Titillium Web", serif;
+    font-size: 12px;
+    position: relative;
+    bottom: 60px;
+    left: 95px;
 }
