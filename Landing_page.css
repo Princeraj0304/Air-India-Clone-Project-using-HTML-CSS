@@ -1035,6 +1035,15 @@ hr{
     background-color: white;
     border: 1px solid rgb(235, 230, 230);
     margin-left: 150px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+
+
+.hhh{
+    display: flex;
 }
 
 .cont p{
@@ -1143,3 +1152,62 @@ hr{
     bottom: 60px;
     left: 95px;
 }
+
+.periperii{
+    background-color: #ffbd6e;
+    font-family: "Titillium Web", serif;
+    font-size: 12px;
+    position: relative;
+    bottom: 32px;
+    left: 95px;
+}
+
+.secX{
+    font-size: 13px;
+    position: relative;
+    left: 800px;
+    bottom: 15px;
+    color: #dddfe4    ;
+}
+
+.for,.for2{
+    display: flex;
+    gap: 30PX;
+    color: #dddfe4    ;
+    margin: 40px;
+    
+    
+}
+
+.for input ,.for select{
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: gray;
+   
+}
+
+.for2 input ,.for2 select{
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color:#dddfe4
+    ;
+}
+
+.form{
+    width: 80%;
+    padding-left: 150px;
+    padding-top: 40px;
+    border-color: rgb(145, 23, 23);
+    font-family: "Titillium Web", serif;
+}
+
+.form h1{
+    padding-left: 40px;
+    padding-top: 30px;
+    font-size: 30px;
+}
+
