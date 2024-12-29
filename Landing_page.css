@@ -494,14 +494,13 @@ background-image: url(london-slider-img.jpeg);
     margin-top: 15px;
     width: 100%;
     height: 80vh;
-    background-image: url();
     animation: slider 10s infinite alternate ;
     background-size: cover;
    
 }
 
 @keyframes slider {
-    0%{background-image: url(web-early-bird-sale-hp_Large1x.webp);
+    0%{background-image: url(christmas_banner.jpeg);
        
     }
     20%{
@@ -512,12 +511,16 @@ background-image: url(london-slider-img.jpeg);
     background-image: url(slider3.jpeg);
     }   
 
-    80%{
+    60%{
         background-image: url(slider4.jpeg);
     }
 
-    100%{
+    80%{
         background-image: url(web-early-bird-sale-hp_Large1x.webp);
+    }
+
+    100%{
+        background-image: url(christmas_banner.jpeg);
     }
 
    
